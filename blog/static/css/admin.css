@@ -1,0 +1,11 @@
+#header, .module caption{
+    background: #446600;
+}
+
+.breadcrumbs{
+    background: #385301 !important;
+}
+
+a:link, a:visited{
+    color: #33a100;
+}
